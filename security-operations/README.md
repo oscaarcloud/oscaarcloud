@@ -6,7 +6,7 @@ The focus here is on building practical skills for identifying suspicious activi
 
 ---
 
-### 🔧 What You’ll Find Here
+### What You’ll Find Here
 
 - Log analysis
 - Threat detection

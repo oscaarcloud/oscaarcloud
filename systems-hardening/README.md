@@ -45,3 +45,19 @@ This section is currently focused on:
 - Windows endpoint security
 - access control
 - secure system configuration
+
+---
+
+### Available Labs
+
+- **[Windows Defender Hardening](./windows-defender-lab/README.md)**  
+  Endpoint protection configuration, real-time scanning, and malware detection validation.
+
+- **[Windows Firewall Hardening](./windows-firewall-lab/README.md)**  
+  Inbound/outbound traffic control, port filtering, and network profile enforcement.
+
+- **[Password Policy Enforcement](./windows-password-policy-lab/README.md)**  
+  Local Group Policy configuration for strong password requirements and account security.
+
+- **[Windows Update Management](./windows-update-lab/README.md)**  
+  Patch management validation and system update verification using Windows Update.
