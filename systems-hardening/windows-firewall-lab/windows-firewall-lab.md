@@ -8,7 +8,7 @@ In enterprise and banking environments, firewall rules help enforce network segm
 
 ---
 
-### 🎯 Objectives
+### Objectives
 
 By completing this lab, the following security tasks are demonstrated:
 
@@ -21,7 +21,7 @@ By completing this lab, the following security tasks are demonstrated:
 
 ---
 
-### 💻 Environment
+### Environment
 
 Hypervisor: VMware Workstation  
 Operating System: Windows Server 2022  
@@ -29,7 +29,7 @@ Security Tool: Windows Defender Firewall with Advanced Security
 
 ---
 
-### 🧪 Lab Scenarios
+### Lab Scenarios
 
 This lab demonstrates several practical firewall configurations used in enterprise environments.
 
@@ -43,7 +43,7 @@ Scenario 4: Allow Key Management Service on Domain/Private networks and deny Pub
 
 ---
 
-### 📸 Evidence (Screenshots)
+### Evidence (Screenshots)
 
 ### Scenario 1 — Block Remote Desktop on Public Network (Inbound Rules)
 
@@ -95,7 +95,7 @@ Scenario 4: Allow Key Management Service on Domain/Private networks and deny Pub
 
 ---
 
-### 💡 Key Security Takeaways
+### Key Security Takeaways
 
 Firewall rules are a fundamental part of system hardening and network security.
 

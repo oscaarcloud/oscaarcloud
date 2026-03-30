@@ -43,3 +43,9 @@ This section is currently being shaped around:
 - log analysis utilities
 - detection support
 - automation for hands-on labs
+
+---
+
+### Available Projects
+- [WebSec Analyzer](/projects/websec-analyzer/README.md)
+A Python-based tool that analyzes the security posture of a domain from multiple angles, including headers, TLS, DNS, cookies, WHOIS, and exposure of sensitive files.

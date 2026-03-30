@@ -1,12 +1,12 @@
 # 🧪Hands-on Lab: Windows Update (Patch Management)
 
-### 🔐 Why this matters (Security)
+### Why this matters (Security)
 Keeping systems up to date is a core control for **reducing exposure to known vulnerabilities** and maintaining strong **security hygiene**.  
 In banking/regulated environments, patching supports **risk reduction, compliance readiness, and incident prevention**.
 
 ---
 
-### 🎯 Objectives
+### Objectives
 - Review Windows Update options and update status
 - Check for available updates
 - Validate installed updates via Update History (KB tracking)
@@ -14,13 +14,13 @@ In banking/regulated environments, patching supports **risk reduction, complianc
 
 ---
 
-### 🖥️ Environment
+### Environment
 - Hypervisor: **VMware Workstation**
 - OS: **Windows Server 2022**
 
 ---
 
-### 🧪 Lab Steps (Summary)
+### Lab Steps (Summary)
 1. Open **Settings → Update & Security → Windows Update**
 2. Review update status and configuration options (Active hours, Advanced options)
 3. Click **Check for updates**
@@ -30,7 +30,7 @@ In banking/regulated environments, patching supports **risk reduction, complianc
 
 ---
 
-### 📸 Evidence (Screenshots)
+### Evidence (Screenshots)
 | Step | Screenshot |
 |------|------------|
 | Windows Update status (updates available / downloading) | ![](./screenshots/01-windows-update-status.jpg) |
@@ -41,14 +41,14 @@ In banking/regulated environments, patching supports **risk reduction, complianc
 
 ---
 
-### ⌨️ Command used for Hotfix verification
+### Command used for Hotfix verification
 ```powershell
 Get-HotFix | Sort-Object InstalledOn -Descending | Select-Object -First 15
 ```
 
 ---
 
-### 💡 Key Takeaways
+### Key Takeaways
 - Patch management reduces exposure to known vulnerabilities.
 - KB history provides audit-friendly traceability (useful for compliance and troubleshooting).
 - Maintenance windows help apply updates without disrupting operations.

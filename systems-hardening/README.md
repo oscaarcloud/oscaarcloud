@@ -50,14 +50,14 @@ This section is currently focused on:
 
 ### Available Labs
 
-- **[Windows Defender Hardening](./windows-defender-lab/README.md)**  
+- **[Windows Defender Hardening](./windows-defender-lab/windows-defender-lab.md)**  
   Endpoint protection configuration, real-time scanning, and malware detection validation.
 
-- **[Windows Firewall Hardening](./windows-firewall-lab/README.md)**  
+- **[Windows Firewall Hardening](./windows-firewall-lab/windows-firewall-lab.md)**  
   Inbound/outbound traffic control, port filtering, and network profile enforcement.
 
-- **[Password Policy Enforcement](./windows-password-policy-lab/README.md)**  
+- **[Password Policy Enforcement](./windows-password-policy-lab/windows-password-policy-lab.md)**  
   Local Group Policy configuration for strong password requirements and account security.
 
-- **[Windows Update Management](./windows-update-lab/README.md)**  
+- **[Windows Update Management](./windows-update-lab/windows-update-lab.md)**  
   Patch management validation and system update verification using Windows Update.

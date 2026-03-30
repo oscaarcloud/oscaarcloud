@@ -6,7 +6,7 @@ Password policies are a foundational access control in any regulated environment
 
 ---
 
-### 🎯 Objectives
+### Objectives
 
 - Check password strength using Kaspersky's password checker
 - Review the Windows Local Group Policy Editor (`gpedit`)
@@ -19,7 +19,7 @@ Password policies are a foundational access control in any regulated environment
 
 ---
 
-### 🖥️ Environment
+### Environment
 
 - **Hypervisor:** VMware Workstation
 - **OS:** Windows Server 2022
@@ -28,7 +28,7 @@ Password policies are a foundational access control in any regulated environment
 
 ---
 
-### 🧪 Lab Steps (Summary)
+### Lab Steps (Summary)
 
 1. Open Chrome and navigate to `password.kaspersky.com`
 2. Test weak password: `fido1973` (letters + numbers, common word + birth year)
@@ -47,7 +47,7 @@ Password policies are a foundational access control in any regulated environment
 
 ---
 
-### 📸 Evidence (Screenshots)
+### Evidence (Screenshots)
 | Step | Screenshot |
 |------|------------|
 | Password Policy — Before Configuration | ![](./screenshots/01-password-policy-before.jpg) |
@@ -57,7 +57,7 @@ Password policies are a foundational access control in any regulated environment
 
 ---
 
-### 📋 Policy Descriptions Reference
+### Policy Descriptions Reference
 
 | Policy | Purpose |
 |---|---|
@@ -70,7 +70,7 @@ Password policies are a foundational access control in any regulated environment
 
 ---
 
-### 💡 Key Takeaways
+### Key Takeaways
 
 - **Weak passwords based on personal info** (names, birth years) are highly vulnerable to brute-force and dictionary attacks, regardless of basic number substitution.
 - **Passphrase-based passwords** (first letters of a memorable sentence) achieve strong entropy while remaining user-friendly — length matters more than complexity alone.

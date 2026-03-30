@@ -6,7 +6,7 @@ In banking/regulated environments, having Defender **enabled, updated, and valid
 
 ---
 
-### 🎯 Objectives
+### Objectives
 - Confirm Defender core protections are enabled (Real-time protection)
 - Validate Defender is updated (Security intelligence / Protection updates)
 - Run an on-demand scan (Quick scan)
@@ -15,7 +15,7 @@ In banking/regulated environments, having Defender **enabled, updated, and valid
 
 ---
 
-### 🖥️ Environment
+### Environment
 - Hypervisor: **VMware Workstation**
 - OS: **Windows Server 2022**
 - Security tool: **Microsoft Defender Antivirus**
@@ -23,7 +23,7 @@ In banking/regulated environments, having Defender **enabled, updated, and valid
 
 ---
 
-### 🧪 Lab Steps (Summary)
+### Lab Steps (Summary)
 1. Open **Windows Security → Virus & threat protection**
 2. Run a **Quick scan** to validate on-demand scanning works
 3. Confirm **Real-time protection** is **ON**
@@ -38,7 +38,7 @@ In banking/regulated environments, having Defender **enabled, updated, and valid
 
 ---
 
-### 📸 Evidence (Screenshots)
+### Evidence (Screenshots)
 | Step | Screenshot |
 |------|------------|
 | Protection updates (Security intelligence up to date) | ![](screenshots/01-protection-updates.jpg) |
@@ -54,7 +54,7 @@ In banking/regulated environments, having Defender **enabled, updated, and valid
 
 ---
 
-### 🖥️ Defender Scheduled Scan — Commands & Configuration
+### Defender Scheduled Scan — Commands & Configuration
 **Program/script:**
 - `C:\ProgramFiles\Windows Defender\MpCmdRun.exe`
 
@@ -66,7 +66,7 @@ In banking/regulated environments, having Defender **enabled, updated, and valid
 
 ---
 
-### 💡 Key Takeaways
+### Key Takeaways
 - Defender must be **enabled and up to date** to reduce exposure to commodity malware and known threats.
 - Running an **on-demand scan** and confirming **real-time protection** verifies baseline endpoint security posture.
 - Scheduling scans via **Task Scheduler + MpCmdRun.exe** ensures consistent hygiene and repeatable controls.

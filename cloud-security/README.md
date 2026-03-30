@@ -43,3 +43,10 @@ This section is being built around Azure-based security implementations such as:
 - secure access to resources
 - monitoring and visibility
 - secrets protection
+
+---
+
+### Available Labs
+
+- **[Azure VM deployment with secure SSH access](./azure-vm-secure-ssh/azure-vm-secure-ssh.md)**
+Secure Azure VM deployment with SSH hardening, NSG restrictions, and firewall validation.

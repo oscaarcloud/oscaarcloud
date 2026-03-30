@@ -141,11 +141,7 @@ def show_menu():
     print("6. WHOIS Information")
     print("7. Special Files")
     print("8. All")
-    print("\nExamples:")
-    print("  1")
-    print("  1,4,5")
-    print("  8")
-
+    print("\nExamples: 1 | 1,4,5 | 8")
 
 def parse_user_selection(selection):
     selection = selection.replace(" ", "")
