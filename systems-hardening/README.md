@@ -61,3 +61,9 @@ This section is currently focused on:
 
 - **[Windows Update Management](./windows-update-lab/windows-update-lab.md)**  
   Patch management validation and system update verification using Windows Update.
+
+- **[DHCP Server Configuration](./dhcp-server-configuration/dhcp-server-configuration.md)**
+  DHCP role deployment, IPv4 scope creation, exclusion range configuration, and lease management on Windows Server.
+
+- **[DNS Filtering](./dns-filtering/dns-filtering.md)**
+  Outbound firewall rule creation to restrict DNS traffic and strengthen network traffic control in Windows.

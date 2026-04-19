@@ -2,16 +2,15 @@
 
 ## Hi, I'm Oscar García
 
-Final-year Computer Systems Engineering student specializing in **Cloud Security Engineering**,
-with a focus on **banking and financial sector** infrastructure.
+Computer Systems Engineering student currently in the final stage of the degree, with two academic terms remaining.
 
-IT/Technical Support background covering Windows environments, network troubleshooting,
-and infrastructure operations — now applied toward security hardening and cloud defense.
+I have a foundation in IT support and infrastructure, including Windows environments, network troubleshooting, and basic systems operations.
 
-Seeking **entry-level or internship roles** in cloud security within banking
-or other regulated industries.
+I am currently building hands-on experience in cloud security, systems hardening, and network security through Azure labs, Windows security practice, Linux administration, and Python-based security tools.
 
-Currently building hands-on experience through Python security tooling, Linux hardening, and AI-assisted security triage. Pursuing **AZ-900**, **IBM Cybersecurity Analyst**, and **Red Hat Enterprise Linux Fundamentals**.
+I am seeking **internship** and **entry-level opportunities** in cloud security, systems administration, or security operations, with a strong interest in banking and other regulated environments.
+
+I am currently progressing through the **IBM Cybersecurity Analyst** path and preparing for **Microsoft Azure Fundamentals (AZ-900)** *(exam pending)*.
 
 📫 **oscaargarci@gmail.com** · [**LinkedIn**](https://www.linkedin.com/in/oscar-garcía-mencía-580267248)
 
@@ -22,56 +21,71 @@ Currently building hands-on experience through Python security tooling, Linux ha
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Cloud Security](https://img.shields.io/badge/Cloud_Security-111111?style=flat&logo=icloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_(RHEL)-EE0000?style=flat&logo=redhat&logoColor=white)
+![Windows Security](https://img.shields.io/badge/Windows_Security-0078D6?style=flat&logo=windows&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI_for_Security-6A5ACD?style=flat&logo=openai&logoColor=white)
-![PCI-DSS](https://img.shields.io/badge/PCI--DSS-003087?style=flat&logo=visa&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-0B7285?style=flat&logo=protonvpn&logoColor=white)
 ![Banking](https://img.shields.io/badge/Banking/Finance-0B7285?style=flat&logo=moneygram&logoColor=white)
 
 ---
 
 ### Security Labs
 
-Hands-on labs built around real-world scenarios and compliance frameworks (PCI-DSS, NIST CSF, SOC 2), focused on banking and regulated infrastructure.
+Hands-on labs focused on systems hardening, network controls, and foundational cloud security practices using Windows and Azure.
 
-**Threat Actor Intelligence Report**
->Profiling Lazarus Group, LockBit, and APT28 with MITRE ATT&CK mappings and alignment to PCI-DSS, NIST CSF, and SOC 2.
+**Azure Secure SSH Access**  
+>Secure deployment of an Azure virtual machine with restricted SSH access through network security rules.
 
-**SSL/TLS Grade Scanner**
->Automated scanning of Dominican Republic domains across government, banking, media, and commercial sectors using Python and the Qualys SSL Labs API.
+**Azure Policy + Defender**  
+>Practice in Azure governance and security posture using Policy controls and Defender recommendations.
 
-**Windows Security Hardening**
->Password policy and firewall hardening following CIS benchmarks, framed for banking and regulated environments.
+**DHCP Server Configuration**  
+>DHCP role deployment, IPv4 scope creation, exclusion ranges, and lease management on Windows Server.
 
-**Kali Linux DDoS Lab**
->Network attack simulation and traffic analysis using Kali Linux and Wireshark in an isolated VM environment.
+**DNS Filtering**  
+>Outbound DNS traffic blocking through Windows Defender Firewall using port-based rules.
+
+**Windows Defender Hardening**  
+>Basic endpoint protection validation through Microsoft Defender configuration and security checks.
+
+**Password Policy Enforcement**  
+>Local policy configuration to strengthen password requirements and improve account security.
 
 ---
 
 ### What I'm Building
 
-- **Azure Security Labs**
-    Hands-on labs covering IAM/RBAC configuration, logging and monitoring pipelines, secrets management with Key Vault, and baseline hardening aligned to CIS benchmarks.
+- **Azure Security Labs**  
+  Hands-on labs related to IAM/RBAC, monitoring, secrets management, and baseline security configurations.
 
-- **Linux (RHEL) Hardening**
-    Hardening procedures and audit checklists following CIS RHEL guidelines, covering access controls, privilege escalation prevention, and auditd configuration.
+- **Linux Hardening**  
+  Practice focused on access control, service hardening, basic auditing, and secure administration.
 
-- **Python Security Tools**
-    Tooling for SSL/TLS grade scanning across Dominican Republic domains (government, banking, media), log parsing utilities, and AI-assisted security triage helpers.  
+- **Python Security Tools**  
+  Utilities focused on analysis, validation, and small security-related automation tasks.
 
 ---
 
 ### Repository Structure
 
-- **[cloud-security/](./cloud-security/README.md)** — Azure IAM/RBAC, logging, secrets management, baseline hardening
-- **[security-operations/](./security-operations/README.md)** — Threat intelligence, MITRE ATT&CK mapping, log analysis
-- **[systems-hardening/](./systems-hardening/README.md)** — RHEL/Linux hardening, Windows security, access controls
-- **[projects/](./projects/README.md)** — Python security tooling, SSL scanner, automation utilities
+- **[cloud-security/](./cloud-security/README.md)** — Azure IAM/RBAC, monitoring, secrets, and baseline hardening
+- **[security-operations/](./security-operations/README.md)** — Threat intelligence, MITRE ATT&CK, and log analysis
+- **[systems-hardening/](./systems-hardening/README.md)** — Windows security, Linux hardening, access controls, and network services
+- **[projects/](./projects/README.md)** — Python tools, automation, and practical projects
 
 ---
-### Certifications
 
-- **IBM Cybersecurity Analyst** — IBM / Coursera *(in progress)*
-- **Linux and Private Cloud Administration on IBM Power Systems** — Red Hat *(in progress)*
+### Certifications and Training
+
+**Completed**
+- **Fundamentals of Red Hat Enterprise Linux** — Red Hat / Coursera
+- **Computer Networks and Network Security** — IBM / Coursera
+- **Operating Systems: Overview, Administration, and Security** — IBM / Coursera
+
+**In Progress**
+- **IBM Cybersecurity Analyst** — IBM / Coursera
+- **Linux and Private Cloud Administration on IBM Power Systems** — Coursera
+- **Microsoft Azure Fundamentals (AZ-900)** — *exam pending*
+
 ---
 
 📫 **oscaargarci@gmail.com** · [**LinkedIn**](https://www.linkedin.com/in/oscar-garcía-mencía-580267248)
