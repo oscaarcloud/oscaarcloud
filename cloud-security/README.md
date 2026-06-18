@@ -59,3 +59,6 @@ Governance baseline with Azure Policy tag enforcement, regional restrictions, an
 
 - **[Azure Bastion Secure VM Access](./azure-bastion-secure-vm-access/README.md)**
 Secure administrative access to a private Azure Linux VM using Azure Bastion, without public IP exposure or open inbound SSH ports.
+
+- **[Azure Landing Zone Secure Baseline](./azure-landing-zone-secure-baseline/README.md)**
+Secure Azure foundation with Resource Group organization, governance tags, VNet subnet segmentation, NSG baseline, and Azure Policy enforcement.
