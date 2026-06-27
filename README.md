@@ -1,16 +1,14 @@
-![Banner](./assets/banner.jpg)
+![Banner](./assets/GitBanner.jpg)
 
 ## Hi, I'm Oscar García
 
-Computer Systems Engineering student currently in the final stage of the degree, with two academic terms remaining.
+I’m a Computer Systems Engineering student in the final stage of my degree, currently gaining professional experience as a Cloud Operations Intern.
 
-I have a foundation in IT support and infrastructure, including Windows environments, network troubleshooting, and basic systems operations.
+My current work focuses on cloud infrastructure, operational support, and deployment-related tasks. I have been involved in Azure initiatives related to virtual networks, subnets, NSGs, resource inventory, host pool cleanup, and cloud governance improvements.
 
-I am currently building hands-on experience in cloud security, systems hardening, and network security through Azure labs, Windows security practice, Linux administration, and Python-based security tools.
+I also contributed to automation and remediation planning for Azure resource tagging standards, helping improve visibility, traceability, organization, and governance across cloud environments.
 
-I am seeking **internship** and **entry-level opportunities** in cloud security, systems administration, or security operations, with a strong interest in banking and other regulated environments.
-
-I am currently progressing through the **IBM Cybersecurity Analyst** path and preparing for **Microsoft Azure Fundamentals (AZ-900)** *(exam pending)*.
+I’m focused on growing in cloud infrastructure, cloud security, systems administration, automation, and security operations, while contributing to the standardization and organization of cloud environments, especially within banking and regulated industries.
 
 📫 **oscaargarci@gmail.com** · [**LinkedIn**](https://www.linkedin.com/in/oscar-garcía-mencía-580267248)
 
@@ -19,58 +17,43 @@ I am currently progressing through the **IBM Cybersecurity Analyst** path and pr
 ### Focus Areas
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Cloud Security](https://img.shields.io/badge/Cloud_Security-111111?style=flat&logo=icloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_(RHEL)-EE0000?style=flat&logo=redhat&logoColor=white)
-![Windows Security](https://img.shields.io/badge/Windows_Security-0078D6?style=flat&logo=windows&logoColor=white)
+![Cloud Ops](https://img.shields.io/badge/Cloud%20Ops-0F172A?style=flat&logo=icloud&logoColor=white)
+![Linux & RHEL](https://img.shields.io/badge/Linux%20%26%20RHEL-EE0000?style=flat&logo=redhat&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-0B7285?style=flat&logo=protonvpn&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Banking](https://img.shields.io/badge/Banking/Finance-0B7285?style=flat&logo=moneygram&logoColor=white)
 
 ---
 
-### Security Labs
+### Cloud & Infrastructure Labs
 
-Hands-on labs focused on systems hardening, network controls, and foundational cloud security practices using Windows and Azure.
+I will be sharing hands-on labs, notes, and small projects focused on cloud infrastructure, systems administration, networking, automation, and operational practices across different cloud and Linux-based environments.
 
-**Azure Secure SSH Access**  
->Secure deployment of an Azure virtual machine with restricted SSH access through network security rules.
+**Azure Networking & Infrastructure**  
+>Labs focused on building and managing cloud infrastructure components, including networking, compute resources, access controls, and environment configuration in Azure.
 
-**Azure Policy + Defender**  
->Practice in Azure governance and security posture using Policy controls and Defender recommendations.
+**Azure Resource Inventory & Operations**  
+>Projects focused on improving visibility, organization, and operational control over cloud resources through inventory, monitoring, and resource analysis practices.
 
-**DHCP Server Configuration**  
->DHCP role deployment, IPv4 scope creation, exclusion ranges, and lease management on Windows Server.
+**Cloud Governance & Tagging Remediation**  
+>Labs focused on cloud standardization, resource organization, automation, tagging practices, and remediation strategies to support better governance and traceability.
 
-**DNS Filtering**  
->Outbound DNS traffic blocking through Windows Defender Firewall using port-based rules.
+**Linux, RHEL & Docker Administration**
+>Practical labs focused on Linux-based environments, system administration, services, permissions, troubleshooting, and container fundamentals.
 
-**Windows Defender Hardening**  
->Basic endpoint protection validation through Microsoft Defender configuration and security checks.
-
-**Password Policy Enforcement**  
->Local policy configuration to strengthen password requirements and improve account security.
-
----
-
-### What I'm Building
-
-- **Azure Security Labs**  
-  Hands-on labs related to IAM/RBAC, monitoring, secrets management, and baseline security configurations.
-
-- **Linux Hardening**  
-  Practice focused on access control, service hardening, basic auditing, and secure administration.
-
-- **Python Security Tools**  
-  Utilities focused on analysis, validation, and small security-related automation tasks.
+**OCI, AWS & Multi-Cloud Foundations**
+>Introductory labs focused on exploring core infrastructure services across OCI and AWS, including compute, networking, storage, identity, and basic cloud management.
 
 ---
 
 ### Repository Structure
 
-- **[cloud-security/](./cloud-security/README.md)** — Azure IAM/RBAC, monitoring, secrets, and baseline hardening
-- **[security-operations/](./security-operations/README.md)** — Threat intelligence, MITRE ATT&CK, and log analysis
-- **[systems-hardening/](./systems-hardening/README.md)** — Windows security, Linux hardening, access controls, and network services
-- **[projects/](./projects/README.md)** — Python tools, automation, and practical projects
+- **[cloud-infrastructure-labs/]()** — Labs related to cloud networking, compute, Linux-based environments, containers, and multi-cloud infrastructure foundations.
+
+- **[cloud-operations-governance/]()** — Work focused on resource management, governance, tagging standards, remediation planning, cost visibility, automation, and operational support.
+
+- **[projects/]()** — Practical scripts, documentation, and personal projects related to cloud, infrastructure, automation, systems administration, and security fundamentals.
 
 ---
 
@@ -79,11 +62,9 @@ Hands-on labs focused on systems hardening, network controls, and foundational c
 **Completed**
 - **Fundamentals of Red Hat Enterprise Linux** — Red Hat / Coursera
 - **Computer Networks and Network Security** — IBM / Coursera
-- **Operating Systems: Overview, Administration, and Security** — IBM / Coursera
+- **Linux and Private Cloud Administration on IBM Power Systems** — IBM / Red Hat 
 
 **In Progress**
-- **IBM Cybersecurity Analyst** — IBM / Coursera
-- **Linux and Private Cloud Administration on IBM Power Systems** — Coursera
 - **Microsoft Azure Fundamentals (AZ-900)** — *exam pending*
 
 ---
