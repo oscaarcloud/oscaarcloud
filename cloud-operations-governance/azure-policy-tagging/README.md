@@ -201,3 +201,10 @@ az policy state list \
   --query "[].{Resource:resourceId, Policy:policyDefinitionName, Assignment:policyAssignmentName, State:complianceState, LastEvaluated:timestamp}" \
   -o table
 ```
+
+
+---
+# Azure Policy Billing Tag
+```
+
+```

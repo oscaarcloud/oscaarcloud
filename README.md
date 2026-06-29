@@ -30,30 +30,29 @@ I’m focused on growing in cloud infrastructure, cloud security, systems admini
 
 I will be sharing hands-on labs, notes, and small projects focused on cloud infrastructure, systems administration, networking, automation, and operational practices across different cloud and Linux-based environments.
 
-**Azure Networking & Infrastructure**  
->Labs focused on building and managing cloud infrastructure components, including networking, compute resources, access controls, and environment configuration in Azure.
-
-**Azure Resource Inventory & Operations**  
->Projects focused on improving visibility, organization, and operational control over cloud resources through inventory, monitoring, and resource analysis practices.
+**Azure Infrastructure, Networking & Operations**  
+>Labs focused on building, managing, and improving Azure cloud infrastructure, including networking, compute resources, access controls, environment configuration, resource inventory, monitoring, and operational analysis.
 
 **Cloud Governance & Tagging Remediation**  
 >Labs focused on cloud standardization, resource organization, automation, tagging practices, and remediation strategies to support better governance and traceability.
 
-**Linux, RHEL & Docker Administration**
->Practical labs focused on Linux-based environments, system administration, services, permissions, troubleshooting, and container fundamentals.
+**Linux, RHEL & Docker Administration**  
+>Practical labs focused on Linux-based environments, system administration, services, permissions, troubleshooting, RHEL fundamentals, and container basics with Docker.
 
 **OCI, AWS & Multi-Cloud Foundations**
 >Introductory labs focused on exploring core infrastructure services across OCI and AWS, including compute, networking, storage, identity, and basic cloud management.
+
+
 
 ---
 
 ### Repository Structure
 
-- **[cloud-infrastructure-labs/]()** — Labs related to cloud networking, compute, Linux-based environments, containers, and multi-cloud infrastructure foundations.
+- **[cloud-infrastructure-labs/](./cloud-infrastructure-labs/README.md)** — Labs related to cloud networking, compute, Linux-based environments, containers, and multi-cloud infrastructure foundations.
 
-- **[cloud-operations-governance/]()** — Work focused on resource management, governance, tagging standards, remediation planning, cost visibility, automation, and operational support.
+- **[cloud-operations-governance/](./cloud-operations-governance/README.md)** — Work focused on resource management, governance, tagging standards, remediation planning, cost visibility, automation, and operational support.
 
-- **[projects/]()** — Practical scripts, documentation, and personal projects related to cloud, infrastructure, automation, systems administration, and security fundamentals.
+- **[projects/](./projects/README.md)** — Practical scripts, documentation, and personal projects related to cloud, infrastructure, automation, systems administration, and security fundamentals.
 
 ---
 
@@ -66,6 +65,10 @@ I will be sharing hands-on labs, notes, and small projects focused on cloud infr
 
 **In Progress**
 - **Microsoft Azure Fundamentals (AZ-900)** — *exam pending*
+
+**Learning Path**
+- **AZ-104: Microsoft Azure Administrator** — *planned / in progress*
+    - **Introduction to Networking and Cloud Computing** — Microsoft / Coursera
 
 ---
 
